@@ -309,13 +309,14 @@ write.foreign(mySPSSData, datafile = "example.sav", codefile = "code.sav",
 ```{r, eval = FALSE}
 # Activate the `foreign` library
 library(foreign)
+dfsfdfsdf
 
 # Read Stata data into R
 mydata <- read.dta("<Path to file>") 
 ```
 
-Writing out Stata files
-
+Writing out Stata filesfdsfsd
+dsfsdfsd
 ```{r, eval = FALSE}
 # Activate the `foreign` library
 library(foreign)
